@@ -147,6 +147,39 @@ It helps establish Sudoku Puzzle Hub as an educational authority in Sudoku and l
 
 This repository contains documentation and descriptive content related to the Sudoku Blog.
 
+
 Access the official blog here:
 
 [Sudoku Blog](https://sudokupuzzlehub.com/blog/)
+
+
+------
+
+## Related Repositories
+
+Main platform:
+https://github.com/sudokupuzzlehub/sudokupuzzlehub
+
+Sudoku solver:
+https://github.com/sudokupuzzlehub/sudoku-solver
+
+Printable Sudoku:
+https://github.com/sudokupuzzlehub/printable-sudoku
+
+Mini Sudoku:
+https://github.com/sudokupuzzlehub/mini-sudoku
+
+Strands puzzle:
+https://github.com/sudokupuzzlehub/strands-puzzle
+
+Cryptogram puzzle:
+https://github.com/sudokupuzzlehub/cryptogram-puzzle
+
+Sudoku blog:
+https://github.com/sudokupuzzlehub/sudoku-blog
+
+
+Access the official blog here:
+
+[Sudoku Blog](https://sudokupuzzlehub.com/blog/)
+
